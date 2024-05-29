@@ -1,0 +1,65 @@
+version: 2
+
+sources:
+  - name: BUCKSBUDDY
+    schema: REDDIT
+    tables: 
+      - name: raw_AAPL
+        identifier: AAPL
+
+      - name: raw_ABNB
+        identifier: ABNB
+
+      - name: raw_ADBE
+        identifier: ADBE
+
+      - name: raw_BA
+        identifier: BA
+
+      - name: raw_DASH
+        identifier: DASH
+
+      - name: raw_GOOG
+        identifier: GOOG
+
+      - name: raw_META
+        identifier: META
+
+      - name: raw_MSFT
+        identifier: MSFT
+
+      - name: raw_NVDA
+        identifier: NVDA
+
+      - name: raw_TSLA
+        identifier: TSLA
+      
+      - name: raw_PFE
+        identifier: PFE
+
+      - name: raw_MRNA
+        identifier: MRNA
+
+      - name: raw_DE
+        identifier: DE
+
+      - name: raw_FDX
+        identifier: FDX
+
+      - name: raw_DHLGY
+        identifier: DHLGY
+
+      - name: raw_DIS
+        identifier: DIS
+
+      - name: raw_NFLX
+        identifier: NFLX
+
+      - name: raw_PEP
+        identifier: PEP
+
+      - name: raw_NSRGY
+        identifier: NSRGY
+
+      - name: raw_LMT
+        identifier: LMT
