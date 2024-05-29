@@ -1,4 +1,4 @@
-#**Bucksbuddy : Your AI-Powered Financial Assistant**
+# **Bucksbuddy : Your AI-Powered Financial Assistant**
 
 **Introduction**
 Investment decisions can be daunting, especially for those new to the financial world. In a market driven by constant change, Bucksbuddy emerges as a game-changer for investors seeking to navigate the complexities of stock predictions. Our product leverages the prowess of three different Large Language Models (LLMs) to analyze and predict stock performance, providing a comparative analysis to determine the most effective approach.
