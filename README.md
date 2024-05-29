@@ -1,6 +1,4 @@
-# A first-level heading **Bucksbuddy : Your AI-Powered Financial Assistant**
-
-![Bucks](https://github.com/aparna-chavan/BucksBuddy/assets/153024151/e48507d2-88be-445b-b0e5-41ad18c34b42)
+#**Bucksbuddy : Your AI-Powered Financial Assistant**
 
 **Introduction**
 Investment decisions can be daunting, especially for those new to the financial world. In a market driven by constant change, Bucksbuddy emerges as a game-changer for investors seeking to navigate the complexities of stock predictions. Our product leverages the prowess of three different Large Language Models (LLMs) to analyze and predict stock performance, providing a comparative analysis to determine the most effective approach.
