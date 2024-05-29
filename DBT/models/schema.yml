@@ -1,0 +1,7 @@
+version: 2
+
+models:
+  - name: AAPL_cleansed
+    description: Table which contains Filtered Reddit Posts and Comments for Apple
+
+  
